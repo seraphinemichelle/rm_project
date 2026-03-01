@@ -1,4 +1,4 @@
-﻿Age;SystolicBP;DiastolicBP;BS;BodyTemp;HeartRate;RiskLevel
+Age;SystolicBP;DiastolicBP;BS;BodyTemp;HeartRate;RiskLevel
 25;130;80;15;98;86;High
 35;140;90;13;98;70;High
 29;90;70;8;100;80;High
